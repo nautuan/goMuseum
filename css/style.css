@@ -1,6 +1,7 @@
 body{
     /* background-color: #1D5D9B; */
     background-color: aliceblue;
+    
 }
 
 #hero {
@@ -8,4 +9,11 @@ body{
 }
 
 #title {
+    margin-top: 50px;
+}
+
+#demonstration {
+    margin-top: 150px;
+    margin-bottom: 100px;
+    /* background-color: #e9ecef; */
 }
